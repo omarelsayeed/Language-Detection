@@ -8,4 +8,4 @@ this idea allows for detection from images and text not only text!
 3 - Dense network --> 85%
 try it out at https://huggingface.co/spaces/anzhir2011/FromImageAndTextLanguageDetector
 
-[vid](https://j.gifs.com/pZPBlV.gif)
+![vid](https://j.gifs.com/pZPBlV.gif)
